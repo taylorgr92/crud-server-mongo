@@ -1,0 +1,1 @@
+console.log('Dont trust anyone over 30')
