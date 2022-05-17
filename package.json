@@ -1,11 +1,14 @@
 {
   "name": "crud-server-mongo",
   "version": "1.0.0",
-  "description": "",
+  "description": "A CRUD server app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Taylor Franklin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
